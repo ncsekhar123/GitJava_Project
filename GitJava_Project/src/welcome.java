@@ -5,8 +5,8 @@ public class welcome {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Git First Commit");
-		//System.out.println("Git Second Commit");
-		//System.out.println("Git Third Commit");
+		System.out.println("Git Second Commit");
+		System.out.println("Git Third Commit");
 
 
 	}
